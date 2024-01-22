@@ -1,6 +1,9 @@
 # PvP Blackjack Game
 
 ![Blackjack](docs/blackjack.jpg)
+<p align="right">
+  Artwork created by Dalle 3 AI
+</p>
 
 ## Project Overview
 This Python script brings the excitement of a PvP (Player vs. Player) Blackjack game to your command line. The game pits you against a computer opponent, blending traditional Blackjack rules with an engaging player experience. The objective is simple: beat your opponent by getting closer to 21 without going over.
